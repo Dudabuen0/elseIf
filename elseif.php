@@ -24,13 +24,13 @@
     if ($nome1 != $nome2){
         echo "João é diferente de Robson! <br>";
     }else{
-        echo "João é igual a Robson!";
+        echo "João é igual a Robson! </br>";
     }
     //Verifica se $numero3 é maior ou igual a $numero4.
     if ($numero3 <= $numero4){
-        echo "12 é maior que 11! <br>";
-    }else{
         echo "12 não é maior, é igual a 11! <br>";
+    }else{
+        echo "12 é maior que 11! <br>";
     }
     ?>
 </body>
