@@ -30,7 +30,7 @@
         echo "O número é menor que 100: $resultado2 <br>";
     }
 
-    //Verifica se $num2 é numério e se é maior ou menor que 100
+    //Verifica se $text é numérico
     if (is_numeric($text)) {
         echo $text . "  é numérico! <br>";
     }
